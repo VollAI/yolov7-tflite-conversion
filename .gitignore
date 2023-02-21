@@ -1,0 +1,21 @@
+# vscode
+launch.json
+
+# env
+.env
+
+# python
+*.pyc
+
+# models
+*.pb
+*.tflite
+*.onnx
+
+# models data
+models/assets
+models/variables
+
+# media
+*.jpg
+*.mp4
